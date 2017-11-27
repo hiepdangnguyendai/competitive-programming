@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EqualStacks", "EqualStacks\EqualStacks.vcxproj", "{2D5FB810-0607-44B2-82C6-D8306EE7D76A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GameOfTwoStack", "..\GameOfTwoStack\GameOfTwoStack\GameOfTwoStack.vcxproj", "{A79A68E1-C1FF-404D-B383-FDA94C521CAE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem716B", "..\..\..\Two-Pointer\Problem716B\Problem716B\Problem716B.vcxproj", "{31B537BD-12EF-4A9C-A757-0E41A8D0C7AB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem580B", "..\..\..\Two-Pointer\Problem580B\Problem580B\Problem580B.vcxproj", "{16311BA8-180C-4D08-97E6-13463EDE7403}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D5FB810-0607-44B2-82C6-D8306EE7D76A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2D5FB810-0607-44B2-82C6-D8306EE7D76A}.Debug|Win32.Build.0 = Debug|Win32
+		{2D5FB810-0607-44B2-82C6-D8306EE7D76A}.Release|Win32.ActiveCfg = Release|Win32
+		{2D5FB810-0607-44B2-82C6-D8306EE7D76A}.Release|Win32.Build.0 = Release|Win32
+		{A79A68E1-C1FF-404D-B383-FDA94C521CAE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A79A68E1-C1FF-404D-B383-FDA94C521CAE}.Debug|Win32.Build.0 = Debug|Win32
+		{A79A68E1-C1FF-404D-B383-FDA94C521CAE}.Release|Win32.ActiveCfg = Release|Win32
+		{A79A68E1-C1FF-404D-B383-FDA94C521CAE}.Release|Win32.Build.0 = Release|Win32
+		{31B537BD-12EF-4A9C-A757-0E41A8D0C7AB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{31B537BD-12EF-4A9C-A757-0E41A8D0C7AB}.Debug|Win32.Build.0 = Debug|Win32
+		{31B537BD-12EF-4A9C-A757-0E41A8D0C7AB}.Release|Win32.ActiveCfg = Release|Win32
+		{31B537BD-12EF-4A9C-A757-0E41A8D0C7AB}.Release|Win32.Build.0 = Release|Win32
+		{16311BA8-180C-4D08-97E6-13463EDE7403}.Debug|Win32.ActiveCfg = Debug|Win32
+		{16311BA8-180C-4D08-97E6-13463EDE7403}.Debug|Win32.Build.0 = Debug|Win32
+		{16311BA8-180C-4D08-97E6-13463EDE7403}.Release|Win32.ActiveCfg = Release|Win32
+		{16311BA8-180C-4D08-97E6-13463EDE7403}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

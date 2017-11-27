@@ -1,0 +1,3 @@
+D:/Practice Algorithms/Uva/Lotto/cmake-build-debug/CMakeFiles/Lotto.dir
+D:/Practice Algorithms/Uva/Lotto/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Practice Algorithms/Uva/Lotto/cmake-build-debug/CMakeFiles/rebuild_cache.dir

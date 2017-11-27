@@ -1,0 +1,3 @@
+D:/Practice Algorithms/Hackerearth/MonkAndHisFriends/cmake-build-debug/CMakeFiles/MonkAndHisFriends.dir
+D:/Practice Algorithms/Hackerearth/MonkAndHisFriends/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Practice Algorithms/Hackerearth/MonkAndHisFriends/cmake-build-debug/CMakeFiles/rebuild_cache.dir

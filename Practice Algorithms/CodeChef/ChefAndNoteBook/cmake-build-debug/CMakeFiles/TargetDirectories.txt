@@ -1,0 +1,3 @@
+D:/Practice Algorithms/CodeChef/ChefAndNoteBook/cmake-build-debug/CMakeFiles/ChefAndNoteBook.dir
+D:/Practice Algorithms/CodeChef/ChefAndNoteBook/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Practice Algorithms/CodeChef/ChefAndNoteBook/cmake-build-debug/CMakeFiles/rebuild_cache.dir

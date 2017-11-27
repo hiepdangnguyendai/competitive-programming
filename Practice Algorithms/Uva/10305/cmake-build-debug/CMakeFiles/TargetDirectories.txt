@@ -1,0 +1,3 @@
+D:/Practice Algorithms/Uva/10305/cmake-build-debug/CMakeFiles/10305.dir
+D:/Practice Algorithms/Uva/10305/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Practice Algorithms/Uva/10305/cmake-build-debug/CMakeFiles/rebuild_cache.dir

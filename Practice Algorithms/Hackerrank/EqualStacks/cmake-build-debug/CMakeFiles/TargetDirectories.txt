@@ -1,0 +1,3 @@
+D:/Practice Algorithms/Hackerrank/EqualStacks/cmake-build-debug/CMakeFiles/EqualStacks.dir
+D:/Practice Algorithms/Hackerrank/EqualStacks/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Practice Algorithms/Hackerrank/EqualStacks/cmake-build-debug/CMakeFiles/rebuild_cache.dir
